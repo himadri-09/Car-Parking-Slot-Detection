@@ -18,7 +18,7 @@ This project is a web application that detects and counts free and occupied park
 - **Pickle:** Used to load the saved parking space positions.
 
 
-### Demo
+### Demo- Web
 ![Demo](templates/demo.png)
 
 
