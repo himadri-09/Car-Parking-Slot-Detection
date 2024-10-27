@@ -17,6 +17,11 @@ This project is a web application that detects and counts free and occupied park
 - **NumPy:** A library for numerical computations in Python.
 - **Pickle:** Used to load the saved parking space positions.
 
+
+### Demo
+![Demo](templates/demo.png)
+
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
